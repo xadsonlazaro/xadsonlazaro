@@ -63,3 +63,11 @@ Here are some ideas to get you started:
 
 > Estou aprendendo todos os dias e registrando minha jornada como desenvolvedor.  
 > Me segue para acompanhar meus projetos e crescer junto comigo! 🚀
+>
+> 
+## ☠️👀 ABilidades pessoas.
+- Sou um jovem que gosta muito de Transformar ideias em codigo.
+- Ou sejà ver minhas ideias serem transformadas em interfaces. isso
+- mè deixa muito Marravilhado e orgulhoso de mim mesmo. então gostaria,
+- de fazer parte de algo. uma equipe e fazer minhas ABilidades ajudarem de,
+- Alguma forma para o crescimento da tecnologia e do mundo todo.
