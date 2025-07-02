@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### 📌 Projetos em destaque
 
 - 🔹 [Verificador de Idade](https://github.com/xadsonlazaro/verificador-de-idade) – Pequena aplicação JS com imagens e lógica simples
-- 🔹️ .[_Analizador_de numeros](_https://github.com/xadsonlazaro/Analizador-de-Numeros) - tambem uma pequena aplicação Js Dinamica. 
+- 🔹️ [Analizador_de numeros](_https://github.com/xadsonlazaro/Analizador-de-Numeros) - tambem uma pequena aplicação Js Dinamica. 
 - 🔹 [Projeto React em construção](https://github.com/xadsonlazaro) – Interface moderna com componentes reutilizáveis
 
 > *Estou sempre atualizando meus projetos e aprendendo novas ferramentas.*
