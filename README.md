@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 ### 📌 Projetos em destaque
 
+- 🔹 [Analizador de Numeros](https://github.com/xadsonlazaro/Analizador-de-numeros) - Um pequeno projeto com funcionalidades Bem interresantes  
 - 🔹 [Verificador de Idade](https://github.com/xadsonlazaro/verificador-de-idade) – Pequena aplicação JS com imagens e lógica simples
-- 🔹️ [Analizador_de numeros](_https://github.com/xadsonlazaro/Analizador-de-Numeros) - tambem uma pequena aplicação Js Dinamica. 
+- [Verificador de Numeros Pares e Impars](http://githunb.com/xadsonlazaro/verificador-de-numeros-Pars-e-Impars) Um projeto pequeno e Simples que Junta Logica e Dimanismo em um só Lugar.
 - 🔹 [Projeto React em construção](https://github.com/xadsonlazaro) – Interface moderna com componentes reutilizáveis
 
 > *Estou sempre atualizando meus projetos e aprendendo novas ferramentas.*
