@@ -44,13 +44,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xadsonlazaro&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xadsonlazaro&layout=compact&theme=dracula"/>
-</div>
-
 ---
 
 ### 📲 Onde me encontrar
