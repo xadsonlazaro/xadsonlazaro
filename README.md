@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos em destaque 
+- 🔹 [ DevChelleng](https://github.com/xadsonlazaro/DevChelleng-Arena) - Este é um projeto Bastante interressante. È meio que um jogo de Programação que analisa seu codigo e se estiver certo voce Ganha um ponto. 
 - 🔹 [Gerrador de Tabuada](https://github.com/xadsonlazaro/Gerrador-de-Tabuada) - Este é um projeto Bastante interresante. com misão de gerrar qualquer Tabuada. em tempo real
 - 🔹 [Verificador de Idade](https://github.com/xadsonlazaro/verificador-de-idade) – Pequena aplicação JS com imagens e lógica simples
 - 🔹 [Projeto React em construção](https://github.com/xadsonlazaro) – Interface moderna com componentes reutilizáveis
