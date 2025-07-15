@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 - TikTok: [@xadsoncodes](https://tiktok.com/@xadsonlazaro) *(se quiser colocar depois)*
 - GitHub: [github.com/xadsonlazaro](https://github.com/xadsonlazaro)
+- Email: [xadsonlazaro007@gmail.com]
 
 ---
 
